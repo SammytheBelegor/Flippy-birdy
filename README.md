@@ -1,2 +1,2 @@
-# Flippy-birdy
-Python written Flippy Bird game
+# Flappy-birdy
+Python written Flappy Bird game
